@@ -44,6 +44,11 @@ Interactive report link: https://app.powerbi.com/view?r=eyJrIjoiZWIxNzExYjktNTJk
 ![Overview Page1](https://github.com/user-attachments/assets/af69afed-7a6a-402e-81af-82c1f961e8d5)
 ![Detail Page 2](https://github.com/user-attachments/assets/a431de1a-86da-414d-8d4f-6797df168923)
 
+### Page Info:
+![about1](https://github.com/user-attachments/assets/ba2b3943-3c51-4179-8bb4-55bfeb5606fd)
+![about2](https://github.com/user-attachments/assets/6ab2dea3-b665-48d3-aee6-b629b46022ac)
+
+
 ## Linkedin Video:
 
 
