@@ -50,6 +50,7 @@ Interactive report link: https://app.powerbi.com/view?r=eyJrIjoiZWIxNzExYjktNTJk
 
 
 ## Linkedin Video:
+https://www.linkedin.com/posts/abhijeetpathak23_fp20analytics-fp20analytics-fp20ecommerceanalysis-activity-7249969411695034370-IKpa?utm_source=share&utm_medium=member_desktop 
 
 
 
